@@ -33,7 +33,8 @@ export const enum REPLACE_KEYS {
 	CurrentLine = '{current_line}',
 	CurrentColumn = '{current_column}',
 	FileSize = '{file_size}',
-	AppName = '{app_name}',
+        AppName = 'ZaryxVSCode',
+//	AppName = '{app_name}',
 	GitRepoName = '{git_repo_name}',
 	GitBranch = '{git_branch}',
 }
